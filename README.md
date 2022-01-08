@@ -18,10 +18,13 @@ La aplicación web, móvil y landing page serán desarrolladas en Flutter.
 Los bounded contexts se deben comunicar a través de un bus de mensajería y serán desarrollados en NestJS.
 
 ## Pregunta 1.- Elabore un diagrama de contexto según el modelo C4 para el caso planteado. (2 puntos)
+https://www.structurizr.com/workspace/70818/diagrams#SystemContext
 
 ## Pregunta 2.- Aplicando los principios de Domain Driven Design, elabore un diagrama de contenedores según el modelo C4. (4 puntos)
+https://www.structurizr.com/workspace/70818/diagrams#Containers
 
 ## Pregunta 3.- Elabore un diagrama de Event Storming para el caso planteado. (4 puntos)
+https://miro.com/welcomeonboard/VmNhVmhNaWdkU3NPTVZ4ckxBc0dIdm1tamtjd1JjOWp5RlpJYzh3TjBCeXhacGJ0MXpheEpaNnZ6UGZPaURhd3wzNDU4NzY0NTE0OTk2MTA3NTM2?invite_link_id=988764846077
 
 ## Pregunta 4.- Implemente con NestJS o Axon framework 1 endpoint a nivel de backend (RESTful API) para un Bounded Context Core del Dominio del Problema. Para la base de datos se puede trabajar con datos Mock en memoria. Para NestJS NO es requerido implementar un bus de mensajería. (6 puntos)
 
